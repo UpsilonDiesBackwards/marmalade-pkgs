@@ -1,0 +1,14 @@
+{
+  "name": "Scripting API",
+  "description": "Marmalade Scripting API",
+  "authors": [
+    "Marmalade"
+  ],
+  "version": "0.0.1",
+  "channel": "dev",
+  "min-engine-version": "0.0.1",
+  "downloads": {
+    "src": "https://diesbackwards.com/download/marmalade/scripting-api-0.0.1.tar.gz"
+  }
+}
+
