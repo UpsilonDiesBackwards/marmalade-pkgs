@@ -6,6 +6,6 @@
   ],
   "latest-version": "",
   "latest-dev-version": "0.0.1",
-  "packages": ["scripting", "lua", "api", "c", "cpp", "c++"]
+  "keywords": ["scripting", "lua", "api", "c", "cpp", "c++"]
 }
 
